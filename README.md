@@ -1,1 +1,1 @@
-# cv
+# Fake CV for learning HTML/CSS
